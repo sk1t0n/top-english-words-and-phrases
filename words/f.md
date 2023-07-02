@@ -1,0 +1,60 @@
+# Топ слов, начинающиеся на букву F
+
+[Топ английский слов и фраз](../README.md)
+
+| №   | слово    | перевод | транскрипция |
+| --- | -------- | ------- | ------------ |
+| 1   | face     |         |              |
+| 2   | fact     |         |              |
+| 3   | fall     |         |              |
+| 4   | family   |         |              |
+| 5   | far      |         |              |
+| 6   | fast     |         |              |
+| 7   | father   |         |              |
+| 8   | fault    |         |              |
+| 9   | favorite |         |              |
+| 10  | fear     |         |              |
+| 11  | feel     |         |              |
+| 12  | feet     |         |              |
+| 13  | fell     |         |              |
+| 14  | felt     |         |              |
+| 15  | few      |         |              |
+| 16  | field    |         |              |
+| 17  | fight    |         |              |
+| 18  | figure   |         |              |
+| 19  | fill     |         |              |
+| 20  | finally  |         |              |
+| 21  | find     |         |              |
+| 22  | fine     |         |              |
+| 23  | finger   |         |              |
+| 24  | finish   |         |              |
+| 25  | fire     |         |              |
+| 26  | first    |         |              |
+| 27  | fit      |         |              |
+| 28  | five     |         |              |
+| 29  | fix      |         |              |
+| 30  | flash    |         |              |
+| 31  | flip     |         |              |
+| 32  | floor    |         |              |
+| 33  | fly      |         |              |
+| 34  | focus    |         |              |
+| 35  | follow   |         |              |
+| 36  | food     |         |              |
+| 37  | foot     |         |              |
+| 38  | for      |         |              |
+| 39  | force    |         |              |
+| 40  | forget   |         |              |
+| 41  | form     |         |              |
+| 42  | forward  |         |              |
+| 43  | found    |         |              |
+| 44  | four     |         |              |
+| 45  | free     |         |              |
+| 46  | friend   |         |              |
+| 47  | from     |         |              |
+| 48  | front    |         |              |
+| 49  | frown    |         |              |
+| 50  | fuck     |         |              |
+| 51  | full     |         |              |
+| 52  | fun      |         |              |
+| 53  | funny    |         |              |
+| 54  | further  |         |              |
