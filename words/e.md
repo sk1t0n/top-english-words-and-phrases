@@ -2,39 +2,39 @@
 
 [Топ английский слов и фраз](../README.md)
 
-| №   | слово      | перевод | транскрипция |
-| --- | ---------- | ------- | ------------ |
-| 1   | each       |         |              |
-| 2   | ear        |         |              |
-| 3   | early      |         |              |
-| 4   | easily     |         |              |
-| 5   | easy       |         |              |
-| 6   | eat        |         |              |
-| 7   | edge       |         |              |
-| 8   | either     |         |              |
-| 9   | else       |         |              |
-| 10  | empty      |         |              |
-| 11  | end        |         |              |
-| 12  | enjoy      |         |              |
-| 13  | enough     |         |              |
-| 14  | enter      |         |              |
-| 15  | entire     |         |              |
-| 16  | escape     |         |              |
-| 17  | especially |         |              |
-| 18  | even       |         |              |
-| 19  | evening    |         |              |
-| 20  | eventually |         |              |
-| 21  | ever       |         |              |
-| 22  | every      |         |              |
-| 23  | everyone   |         |              |
-| 24  | everything |         |              |
-| 25  | exactly    |         |              |
-| 26  | except     |         |              |
-| 27  | excite     |         |              |
-| 28  | exclaim    |         |              |
-| 29  | excuse     |         |              |
-| 30  | expect     |         |              |
-| 31  | explain    |         |              |
-| 32  | expression |         |              |
-| 33  | eye        |         |              |
-| 34  | eyebrow    |         |              |
+| №   | слово                                                                                | перевод                                                                                                                                                                    | транскрипция     |
+| --- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 1   | [each](https://dictionary.cambridge.org/dictionary/english-russian/each)             | каждый (местоимение)                                                                                                                                                       | /iːtʃ/           |
+| 2   | [ear](https://dictionary.cambridge.org/dictionary/english-russian/ear)               | ухо, колос, початок (существительное)                                                                                                                                      | /ɪər/            |
+| 3   | [early](https://dictionary.cambridge.org/dictionary/english-russian/early)           | ранний, рано, преждевременный, преждевременно (прилагательное, наречие)                                                                                                    | /ˈɜːli/          |
+| 4   | [easily](https://dictionary.cambridge.org/dictionary/english-russian/easily)         | легко, свободно, вполне вероятно (наречие)                                                                                                                                 | /ˈiːzɪli/        |
+| 5   | [easy](https://dictionary.cambridge.org/dictionary/english-russian/easy)             | легкий, нетрудный, непринужденный (прилагательное)                                                                                                                         | /ˈiːzi/          |
+| 6   | [eat](https://dictionary.cambridge.org/dictionary/english-russian/eat)               | есть, питаться (глагол)                                                                                                                                                    | /iːt/            |
+| 7   | [edge](https://dictionary.cambridge.org/dictionary/english-russian/edge)             | край, кромка, лезвие, острие (существительное) / окаймлять (глагол)                                                                                                        | /edʒ/            |
+| 8   | [either](https://dictionary.cambridge.org/dictionary/english-russian/either)         | тот или другой, любой, оба, и тот и другой (из двух) (местоимение) / также, тоже (в отриц. предл.) (наречие) / или … или (союз)                                            | /ˈaɪðər, ˈiːðər/ |
+| 9   | [else](https://dictionary.cambridge.org/dictionary/english-russian/else)             | еще, другой, остальное, остальные (наречие)                                                                                                                                | /els/            |
+| 10  | [empty](https://dictionary.cambridge.org/dictionary/english-russian/empty)           | пустой, порожний, бессмысленный (прилагательное) / опорожнять, выливать, высыпать, пустеть (глагол)                                                                        | /ˈempti/         |
+| 11  | [end](https://dictionary.cambridge.org/dictionary/english-russian/end)               | конец, прекращение, цель, намерение (существительное) / кончать(ся), заканчивать(ся) (глагол)                                                                              | /end/            |
+| 12  | [enjoy](https://dictionary.cambridge.org/dictionary/english-russian/enjoy)           | получать удовольствие, наслаждаться, пользоваться, обладать (глагол)                                                                                                       | /ɪnˈdʒɔɪ/        |
+| 13  | [enough](https://dictionary.cambridge.org/dictionary/english-russian/enough)         | достаточно (местоимение) / достаточно, довольно (наречие)                                                                                                                  | /ɪˈnʌf/          |
+| 14  | [enter](https://dictionary.cambridge.org/dictionary/english-russian/enter)           | входить, въезжать, заносить (в компьютер), вписывать, принимать участие, вступать, становиться членом (организации и т. д.), вступать (в период времени) (глагол)          | /ˈentər/         |
+| 15  | [entire](https://dictionary.cambridge.org/dictionary/english-russian/entire)         | целый, весь (прилагательное)                                                                                                                                               | /ɪnˈtaɪər/       |
+| 16  | [escape](https://dictionary.cambridge.org/dictionary/english-russian/escape)         | совершать побег, избегать, ускользать, выпадать из памяти, вытекать, улетучиваться (глагол) / побег, отдушина, возможность отключиться от повседневности (существительное) | /ɪˈskeɪp/        |
+| 17  | [especially](https://dictionary.cambridge.org/dictionary/english-russian/especially) | особенно, специально (наречие)                                                                                                                                             | /ɪˈspeʃəli/      |
+| 18  | [even](https://dictionary.cambridge.org/dictionary/english-russian/even)             | ровный, гладкий, равномерный, четный, рассчитавшийся, расквитавшийся, равный (по силе), с равными шансами (прилагательное) / даже (наречие)                                | /ˈiːvən/         |
+| 19  | [evening](https://dictionary.cambridge.org/dictionary/english-russian/evening)       | вечер (существительное)                                                                                                                                                    | /ˈiːvnɪŋ/        |
+| 20  | [eventually](https://dictionary.cambridge.org/dictionary/english-russian/eventually) | в конце концов (наречие)                                                                                                                                                   | /ɪˈventʃuəli/    |
+| 21  | [ever](https://dictionary.cambridge.org/dictionary/english-russian/ever)             | когда-либо, никогда (в отриц. предл.) (наречие)                                                                                                                            | /ˈevər/          |
+| 22  | [every](https://dictionary.cambridge.org/dictionary/english-russian/every)           | каждый, всевозможный, всяческий (определитель)                                                                                                                             | /ˈevri/          |
+| 23  | [everyone](https://dictionary.cambridge.org/dictionary/english-russian/everyone)     | каждый, все (местоимение)                                                                                                                                                  | /ˈevriwʌn/       |
+| 24  | [everything](https://dictionary.cambridge.org/dictionary/english-russian/everything) | всё (местоимение)                                                                                                                                                          | /ˈevriθɪŋ/       |
+| 25  | [exactly](https://dictionary.cambridge.org/dictionary/english-russian/exactly)       | точно, как раз, совершенно верно, вот именно (наречие)                                                                                                                     | /ɪɡˈzæktli/      |
+| 26  | [except](https://dictionary.cambridge.org/dictionary/english-russian/except)         | кроме (предлог, союз)                                                                                                                                                      | /ɪkˈsept/        |
+| 27  | [excite](https://dictionary.cambridge.org/dictionary/english-russian/excite)         | возбуждать, волновать, вызывать (глагол)                                                                                                                                   | /ɪkˈsaɪt/        |
+| 28  | [exclaim](https://dictionary.cambridge.org/dictionary/english-russian/exclaim)       | восклицать (глагол)                                                                                                                                                        | /ɪksˈkleɪm/      |
+| 29  | [excuse](https://dictionary.cambridge.org/dictionary/english-russian/excuse)         | извинять, прощать, освобождать (от работы и т. д.), оправдывать (глагол) / оправдание, отговорка, предлог (существительное)                                                | /ɪkˈskjuːz/      |
+| 30  | [expect](https://dictionary.cambridge.org/dictionary/english-russian/expect)         | ожидать, требовать (глагол)                                                                                                                                                | /ɪkˈspekt/       |
+| 31  | [explain](https://dictionary.cambridge.org/dictionary/english-russian/explain)       | объяснять (глагол)                                                                                                                                                         | /ɪkˈspleɪn/      |
+| 32  | [expression](https://dictionary.cambridge.org/dictionary/english-russian/expression) | выражение лица, выражение, фраза (существительное)                                                                                                                         | /ɪkˈspreʃən/     |
+| 33  | [eye](https://dictionary.cambridge.org/dictionary/english-russian/eye)               | глаз, ушко (иглы) (существительное) / разглядывать (глагол)                                                                                                                | /aɪ/             |
+| 34  | [eyebrow](https://dictionary.cambridge.org/dictionary/english-russian/eyebrow)       | бровь (существительное)                                                                                                                                                    | /ˈaɪbraʊ/        |
