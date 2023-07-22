@@ -2,19 +2,19 @@
 
 [Топ английский слов и фраз](../README.md)
 
-| №   | слово   | перевод | транскрипция |
-| --- | ------- | ------- | ------------ |
-| 1   | keep    |         |              |
-| 2   | kept    |         |              |
-| 3   | key     |         |              |
-| 4   | kick    |         |              |
-| 5   | kid     |         |              |
-| 6   | kill    |         |              |
-| 7   | kind    |         |              |
-| 8   | kiss    |         |              |
-| 9   | kitchen |         |              |
-| 10  | knee    |         |              |
-| 11  | knew    |         |              |
-| 12  | knock   |         |              |
-| 13  | know    |         |              |
-| 14  | known   |         |              |
+| №   | слово                                                                          | перевод                                                                                                                                                                                                 | транскрипция |
+| --- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1   | [keep](https://dictionary.cambridge.org/dictionary/english-russian/keep)       | хранить, оставлять себе, держать, задерживать, отвлекать, вести (записи и т. д.), сохраняться, не портиться, содержать, обеспечивать, держать (животных) (глагол) / жилье, содержание (существительное) | /kiːp/       |
+| 2   | [kept](https://dictionary.cambridge.org/dictionary/english-russian/kept)       | прош. вр. и прич. прош. вр. от гл. [keep](https://dictionary.cambridge.org/dictionary/english-russian/keep)                                                                                             | /kept/       |
+| 3   | [key](https://dictionary.cambridge.org/dictionary/english-russian/key)         | ключ, путь, клавиша, тональность, легенда, условные обозначения, ответы (существительное) / ключевой (прилагательное)                                                                                   | /kiː/        |
+| 4   | [kick](https://dictionary.cambridge.org/dictionary/english-russian/kick)       | ударять ногой, пинать, лягаться, брыкаться (глагол) / пинок, удар ногой, удовольствие, наслаждение (существительное)                                                                                    | /kɪk/        |
+| 5   | [kid](https://dictionary.cambridge.org/dictionary/english-russian/kid)         | ребенок, козленок (существительное) / шутить, разыгрывать, обманывать (глагол)                                                                                                                          | /kɪd/        |
+| 6   | [kill](https://dictionary.cambridge.org/dictionary/english-russian/kill)       | убивать, прекращать, губить, мучить, изматывать (глагол) / добыча (на охоте) (существительное)                                                                                                          | /kɪl/        |
+| 7   | [kind](https://dictionary.cambridge.org/dictionary/english-russian/kind)       | род, тип, сорт (существительное) / добрый, любезный (прилагательное)                                                                                                                                    | /kaɪnd/      |
+| 8   | [kiss](https://dictionary.cambridge.org/dictionary/english-russian/kiss)       | целовать (глагол) / поцелуй (существительное)                                                                                                                                                           | /kɪs/        |
+| 9   | [kitchen](https://dictionary.cambridge.org/dictionary/english-russian/kitchen) | кухня (существительное)                                                                                                                                                                                 | /ˈkɪtʃɪn/    |
+| 10  | [knee](https://dictionary.cambridge.org/dictionary/english-russian/knee)       | колено, колено (брюк) (существительное)                                                                                                                                                                 | /niː/        |
+| 11  | [knew](https://dictionary.cambridge.org/dictionary/english-russian/knew)       | прош. вр. гл. [know](https://dictionary.cambridge.org/dictionary/english-russian/know)                                                                                                                  | /njuː/       |
+| 12  | [knock](https://dictionary.cambridge.org/dictionary/english-russian/knock)     | стучать(ся), сбивать, опрокидывать, резко критиковать, придираться (глагол) / стук, удар (существительное)                                                                                              | /nɒk/        |
+| 13  | [know](https://dictionary.cambridge.org/dictionary/english-russian/know)       | знать, иметь понятие, быть знакомым, уметь, догадываться, понимать (глагол)                                                                                                                             | /nəʊ/        |
+| 14  | [known](https://dictionary.cambridge.org/dictionary/english-russian/known)     | общеизвестный (прилагательное) / прич. прош. вр. от гл. [know](https://dictionary.cambridge.org/dictionary/english-russian/know)                                                                        | /nəʊn/       |
