@@ -2,44 +2,44 @@
 
 [Топ английский слов и фраз](../README.md)
 
-| №   | слово  | перевод | транскрипция |
-| --- | ------ | ------- | ------------ |
-| 1   | lady   |         |              |
-| 2   | land   |         |              |
-| 3   | large  |         |              |
-| 4   | last   |         |              |
-| 5   | late   |         |              |
-| 6   | laugh  |         |              |
-| 7   | lay    |         |              |
-| 8   | lead   |         |              |
-| 9   | lean   |         |              |
-| 10  | learn  |         |              |
-| 11  | least  |         |              |
-| 12  | leave  |         |              |
-| 13  | led    |         |              |
-| 14  | left   |         |              |
-| 15  | leg    |         |              |
-| 16  | less   |         |              |
-| 17  | let    |         |              |
-| 18  | letter |         |              |
-| 19  | lie    |         |              |
-| 20  | life   |         |              |
-| 21  | lift   |         |              |
-| 22  | light  |         |              |
-| 23  | like   |         |              |
-| 24  | line   |         |              |
-| 25  | lip    |         |              |
-| 26  | listen |         |              |
-| 27  | little |         |              |
-| 28  | live   |         |              |
-| 29  | lock   |         |              |
-| 30  | locker |         |              |
-| 31  | long   |         |              |
-| 32  | look   |         |              |
-| 33  | lose   |         |              |
-| 34  | lost   |         |              |
-| 35  | lot    |         |              |
-| 36  | loud   |         |              |
-| 37  | love   |         |              |
-| 38  | low    |         |              |
-| 39  | lunch  |         |              |
+| №   | слово                                                                        | перевод                                                                                                                                                                                                                                               | транскрипция          |
+| --- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| 1   | [lady](https://dictionary.cambridge.org/dictionary/english-russian/lady)     | дама, женщина (существительное)                                                                                                                                                                                                                       | /ˈleɪdi/              |
+| 2   | [land](https://dictionary.cambridge.org/dictionary/english-russian/land)     | земля, почва, суша, страна, территория (существительное) / приземляться, посадить (самолет и т. д.), получать, пристраиваться (глагол)                                                                                                                | /lænd/                |
+| 3   | [large](https://dictionary.cambridge.org/dictionary/english-russian/large)   | большой (прилагательное)                                                                                                                                                                                                                              | /lɑːdʒ/               |
+| 4   | [last](https://dictionary.cambridge.org/dictionary/english-russian/last)     | последний, предыдущий, прошлый, оставшийся (прилагательное, определитель) / последним, в последнюю очередь, в последний раз (наречие) / продолжаться, длиться, хватать, быть достаточным (глагол)                                                     | /lɑːst/               |
+| 5   | [late](https://dictionary.cambridge.org/dictionary/english-russian/late)     | опаздывающий, поздний, поздно, в конце, покойный (прилагательное, наречие)                                                                                                                                                                            | /leɪt/                |
+| 6   | [laugh](https://dictionary.cambridge.org/dictionary/english-russian/laugh)   | смеяться (глагол) / смех (существительное)                                                                                                                                                                                                            | /lɑːf/                |
+| 7   | [lay](https://dictionary.cambridge.org/dictionary/english-russian/lay)       | класть, устанавливать (глагол) / светский, мирской, непрофессиональный (прилагательное) / прош. вр. гл. [lie](https://dictionary.cambridge.org/dictionary/english-russian/lie)                                                                        | /leɪ/                 |
+| 8   | [lead](https://dictionary.cambridge.org/dictionary/english-russian/lead)     | вести, показывать путь, лидировать (в игре), быть впереди, руководить (глагол) / первое место, преимущество, главная роль, поводок, подводящий провод, версия (преступления) (существительное) / главный, ведущий (о роли и т. д.) (прилагательное)   | /liːd/                |
+| 9   | [lean](https://dictionary.cambridge.org/dictionary/english-russian/lean)     | худой, подтянутый, постный, нежирный (прилагательное)                                                                                                                                                                                                 | /liːn/                |
+| 10  | [learn](https://dictionary.cambridge.org/dictionary/english-russian/learn)   | учить(ся), изучать, учить (что-либо), понимать (глагол)                                                                                                                                                                                               | /lɜːn/                |
+| 11  | [least](https://dictionary.cambridge.org/dictionary/english-russian/least)   | меньше всего, наименее (наречие) / наименьшее количество (квантификатор)                                                                                                                                                                              | /liːst/               |
+| 12  | [leave](https://dictionary.cambridge.org/dictionary/english-russian/leave)   | уходить, уезжать, покидать, бросать, оставлять, забывать, оставлять неиспользованным, оставлять после себя, откладывать, отсрочивать, завещать (глагол) / отпуск (существительное)                                                                    | /liːv/                |
+| 13  | [led](https://dictionary.cambridge.org/dictionary/english-russian/led)       | прош. вр. и прич. прош. вр. от гл. [lead](https://dictionary.cambridge.org/dictionary/english-russian/lead)                                                                                                                                           | /led/                 |
+| 14  | [left](https://dictionary.cambridge.org/dictionary/english-russian/left)     | левый, налево (прилагательное, наречие) / левая сторона (существительное) / прош. вр. и прич. прош. вр. от гл. [leave](https://dictionary.cambridge.org/dictionary/english-russian/leave)                                                             | /left/                |
+| 15  | [leg](https://dictionary.cambridge.org/dictionary/english-russian/leg)       | нога, нога (часть туши), ножка (стола и т. д.), штанина, этап, тур (существительное)                                                                                                                                                                  | /leɡ/                 |
+| 16  | [less](https://dictionary.cambridge.org/dictionary/english-russian/less)     | меньше, меньший (квантификатор) / меньше, менее (наречие) / без-, не имеющий чего-то (окончание)                                                                                                                                                      | /les/                 |
+| 17  | [let](https://dictionary.cambridge.org/dictionary/english-russian/let)       | позволять, допускать, сдавать внаем (глагол)                                                                                                                                                                                                          | /let/                 |
+| 18  | [letter](https://dictionary.cambridge.org/dictionary/english-russian/letter) | письмо, буква (существительное)                                                                                                                                                                                                                       | /ˈletər/              |
+| 19  | [lie](https://dictionary.cambridge.org/dictionary/english-russian/lie)       | лгать, обманывать (глагол) / ложь (существительное)                                                                                                                                                                                                   | /laɪ/                 |
+| 20  | [life](https://dictionary.cambridge.org/dictionary/english-russian/life)     | жизнь, образ жизни, оживление, энергия, срок эксплуатации (существительное)                                                                                                                                                                           | /laɪf/                |
+| 21  | [lift](https://dictionary.cambridge.org/dictionary/english-russian/lift)     | поднимать, рассеиваться (о тумане и т. д.), отменять, красть, совершать плагиат (глагол) / лифт, используется с гл. [give](https://dictionary.cambridge.org/dictionary/english-russian/give) в значении подвозить, поднятие, подъем (существительное) | /lɪft/                |
+| 22  | [light](https://dictionary.cambridge.org/dictionary/english-russian/light)   | свет, источник света, лампа, фара (существительное) / легкий, нетяжелый, незначительный, слабый, светлый, нетрудный (прилагательное) / загораться, зажигать, освещать(ся) (глагол)                                                                    | /laɪt/                |
+| 23  | [like](https://dictionary.cambridge.org/dictionary/english-russian/like)     | как, похожий на, похоже, например (предлог) / нравиться, любить (глагол) / как, как будто, словно (союз) / что-либо подобное, похожее (существительное) / образует прилагательные со значением 'подобный чему-л., напоминающий что-л.' (окончание)    | /laɪk/                |
+| 24  | [line](https://dictionary.cambridge.org/dictionary/english-russian/line)     | линия, ряд, веревка, провод, леска, линия связи, очередь, строка, политика, ассортимент, серия изделий, направление, граница (существительное) / стоять, тянуться вдоль чего-либо (глагол)                                                            | /laɪn/                |
+| 25  | [lip](https://dictionary.cambridge.org/dictionary/english-russian/lip)       | губа, носик (сосуда) (существительное)                                                                                                                                                                                                                | /lɪp/                 |
+| 26  | [listen](https://dictionary.cambridge.org/dictionary/english-russian/listen) | слушать, слушаться, прислушиваться (к совету) (глагол)                                                                                                                                                                                                | /ˈlɪsən/              |
+| 27  | [little](https://dictionary.cambridge.org/dictionary/english-russian/little) | маленький, короткий, недолгий, незначительный, младший (прилагательное) / мало (квантификатор) / немного, недостаточно (местоимение) / немного, недостаточно (наречие)                                                                                | /ˈlɪtl/               |
+| 28  | [live](https://dictionary.cambridge.org/dictionary/english-russian/live)     | жить, вести образ жизни (глагол) / живой, находящийся под напряжением, прямой (о радио- и телепередаче), живой, сыгранный перед публикой, не взорвавшийся (прилагательное) / прямо, непосредственно в эфир (наречие)                                  | /lɪv/, /laɪv/, /laɪv/ |
+| 29  | [lock](https://dictionary.cambridge.org/dictionary/english-russian/lock)     | запирать на ключ, застрять, увязнуть (глагол) / замок (дверной и т.д.), шлюз (существительное)                                                                                                                                                        | /lɒk/                 |
+| 30  | [locker](https://dictionary.cambridge.org/dictionary/english-russian/locker) | запирающийся шкафчик (существительное)                                                                                                                                                                                                                | /ˈlɒkər/              |
+| 31  | [long](https://dictionary.cambridge.org/dictionary/english-russian/long)     | длинный, долгий, длительный, имеющий такую-то длину или продолжительность, объемистый (прилагательное) / долго (наречие) / длительное время (существительное)                                                                                         | /lɒŋ/                 |
+| 32  | [look](https://dictionary.cambridge.org/dictionary/english-russian/look)     | смотреть, искать (глагол) / взгляд, выражение лица, стиль, мода (существительное)                                                                                                                                                                     | /lʊk/                 |
+| 33  | [lose](https://dictionary.cambridge.org/dictionary/english-russian/lose)     | терять, лишаться, проигрывать, пропускать, отставать (о часах), запутать кого-либо, избавляться, отделываться от чего-л. (глагол)                                                                                                                     | /luːz/                |
+| 34  | [lost](https://dictionary.cambridge.org/dictionary/english-russian/lost)     | заблудившийся, потерянный, пропавший, растерянный (прилагательное) / прош. вр. и прич. прош. вр. от гл. [lose](https://dictionary.cambridge.org/dictionary/english-russian/lose)                                                                      | /lɒst/                |
+| 35  | [lot](https://dictionary.cambridge.org/dictionary/english-russian/lot)       | партия, серия, участок, территория, лот (существительное)                                                                                                                                                                                             | /lɒt/                 |
+| 36  | [loud](https://dictionary.cambridge.org/dictionary/english-russian/loud)     | громкий, шумный, яркий, кричащий (прилагательное) / громко (наречие)                                                                                                                                                                                  | /laʊd/                |
+| 37  | [love](https://dictionary.cambridge.org/dictionary/english-russian/love)     | любить (глагол) / любовь, возлюбленный, сильный интерес, дорогой, дорогая (при обращении), ноль (в спорте) (существительное)                                                                                                                          | /lʌv/                 |
+| 38  | [low](https://dictionary.cambridge.org/dictionary/english-russian/low)       | низкий, невысокий, тихий, слабый, неяркий, подавленный (прилагательное) / низко (наречие)                                                                                                                                                             | /ləʊ/                 |
+| 39  | [lunch](https://dictionary.cambridge.org/dictionary/english-russian/lunch)   | обед (существительное) / обедать (глагол)                                                                                                                                                                                                             | /lʌnʃ/                |
