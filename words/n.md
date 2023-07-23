@@ -2,28 +2,28 @@
 
 [Топ английский слов и фраз](../README.md)
 
-| №   | слово   | перевод | транскрипция |
-| --- | ------- | ------- | ------------ |
-| 1   | name    |         |              |
-| 2   | near    |         |              |
-| 3   | nearly  |         |              |
-| 4   | neck    |         |              |
-| 5   | need    |         |              |
-| 6   | nervous |         |              |
-| 7   | never   |         |              |
-| 8   | new     |         |              |
-| 9   | next    |         |              |
-| 10  | nice    |         |              |
-| 11  | night   |         |              |
-| 12  | no      |         |              |
-| 13  | nod     |         |              |
-| 14  | noise   |         |              |
-| 15  | none    |         |              |
-| 16  | normal  |         |              |
-| 17  | nose    |         |              |
-| 18  | not     |         |              |
-| 19  | note    |         |              |
-| 20  | nothing |         |              |
-| 21  | notice  |         |              |
-| 22  | now     |         |              |
-| 23  | number  |         |              |
+| №   | слово                                                                          | перевод                                                                                                                                                      | транскрипция |
+| --- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| 1   | [name](https://dictionary.cambridge.org/dictionary/english-russian/name)       | имя, название (существительное) / называть, давать имя, упоминать, объявлять (глагол)                                                                        | /neɪm/       |
+| 2   | [near](https://dictionary.cambridge.org/dictionary/english-russian/near)       | близко, около, поблизости, почти, чуть не, похоже (наречие, предлог) / близкий, ближний (прилагательное) / приближаться (глагол)                             | /nɪər/       |
+| 3   | [nearly](https://dictionary.cambridge.org/dictionary/english-russian/nearly)   | почти, чуть не (наречие)                                                                                                                                     | /ˈnɪəli/     |
+| 4   | [neck](https://dictionary.cambridge.org/dictionary/english-russian/neck)       | шея, ворот, вырез (существительное)                                                                                                                          | /nek/        |
+| 5   | [need](https://dictionary.cambridge.org/dictionary/english-russian/need)       | нуждаться, иметь потребность, требовать (глагол) / необходимость, надобность (существительное)                                                               | /niːd/       |
+| 6   | [nervous](https://dictionary.cambridge.org/dictionary/english-russian/nervous) | нервный, волнующийся (прилагательное)                                                                                                                        | /ˈnɜːvəs/    |
+| 7   | [never](https://dictionary.cambridge.org/dictionary/english-russian/never)     | никогда, ни разу, совсем (наречие)                                                                                                                           | /ˈnevər/     |
+| 8   | [new](https://dictionary.cambridge.org/dictionary/english-russian/new)         | новый (прилагательное)                                                                                                                                       | /njuː/       |
+| 9   | [next](https://dictionary.cambridge.org/dictionary/english-russian/next)       | следующий, ближайший, соседний (прилагательное) / дальше, затем, в следующий раз (наречие) / следующий (местоимение)                                         | /nekst/      |
+| 10  | [nice](https://dictionary.cambridge.org/dictionary/english-russian/nice)       | милый, приятный, любезный (прилагательное)                                                                                                                   | /naɪs/       |
+| 11  | [night](https://dictionary.cambridge.org/dictionary/english-russian/night)     | ночь, вечер (существительное)                                                                                                                                | /naɪt/       |
+| 12  | [no](https://dictionary.cambridge.org/dictionary/english-russian/no)           | нет, нет (при соглашении с отрицательным высказыванием) (восклицание) / никакой, нет, нельзя, запрещено (определитель)                                       | /nəʊ/        |
+| 13  | [nod](https://dictionary.cambridge.org/dictionary/english-russian/nod)         | кивать головой (глагол) / кивок (существительное)                                                                                                            | /nɒd/        |
+| 14  | [noise](https://dictionary.cambridge.org/dictionary/english-russian/noise)     | шум (существительное)                                                                                                                                        | /nɔɪz/       |
+| 15  | [none](https://dictionary.cambridge.org/dictionary/english-russian/none)       | никто, ни один, нисколько (квантификатор)                                                                                                                    | /nʌn/        |
+| 16  | [normal](https://dictionary.cambridge.org/dictionary/english-russian/normal)   | нормальный, обычный (прилагательное)                                                                                                                         | /ˈnɔːməl/    |
+| 17  | [nose](https://dictionary.cambridge.org/dictionary/english-russian/nose)       | нос (существительное)                                                                                                                                        | /nəʊz/       |
+| 18  | [not](https://dictionary.cambridge.org/dictionary/english-russian/not)         | не, нет (наречие)                                                                                                                                            | /nɒt/        |
+| 19  | [note](https://dictionary.cambridge.org/dictionary/english-russian/note)       | записка, запись, конспект, примечание, тон, нотка, нота, банкнота (существительное) / замечать, отмечать, упоминать (глагол)                                 | /nəʊt/       |
+| 20  | [nothing](https://dictionary.cambridge.org/dictionary/english-russian/nothing) | ничего, пустяк, мелочь (местоимение)                                                                                                                         | /ˈnʌθɪŋ/     |
+| 21  | [notice](https://dictionary.cambridge.org/dictionary/english-russian/notice)   | замечать (глагол) / объявление, официальное предупреждение, внимание (существительное)                                                                       | /ˈnəʊtɪs/    |
+| 22  | [now](https://dictionary.cambridge.org/dictionary/english-russian/now)         | теперь, сейчас, немедленно, сию же минуту, уже, к настоящему моменту, так вот, итак (наречие) / теперь, когда (союз) / сейчас, настоящее время (местоимение) | /naʊ/        |
+| 23  | [number](https://dictionary.cambridge.org/dictionary/english-russian/number)   | число, номер, количество (существительное) / нумеровать, насчитывать (глагол)                                                                                | /ˈnʌmbər/    |
