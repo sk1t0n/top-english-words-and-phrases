@@ -2,54 +2,54 @@
 
 [Топ английский слов и фраз](../README.md)
 
-| №   | слово   | перевод | транскрипция |
-| --- | ------- | ------- | ------------ |
-| 1   | mad     |         |              |
-| 2   | made    |         |              |
-| 3   | make    |         |              |
-| 4   | man     |         |              |
-| 5   | manage  |         |              |
-| 6   | many    |         |              |
-| 7   | mark    |         |              |
-| 8   | marry   |         |              |
-| 9   | match   |         |              |
-| 10  | matter  |         |              |
-| 11  | may     |         |              |
-| 12  | maybe   |         |              |
-| 13  | me      |         |              |
-| 14  | mean    |         |              |
-| 15  | meant   |         |              |
-| 16  | meet    |         |              |
-| 17  | memory  |         |              |
-| 18  | men     |         |              |
-| 19  | mention |         |              |
-| 20  | met     |         |              |
-| 21  | middle  |         |              |
-| 22  | might   |         |              |
-| 23  | mind    |         |              |
-| 24  | mine    |         |              |
-| 25  | minute  |         |              |
-| 26  | mirror  |         |              |
-| 27  | miss    |         |              |
-| 28  | mom     |         |              |
-| 29  | moment  |         |              |
-| 30  | money   |         |              |
-| 31  | month   |         |              |
-| 32  | mood    |         |              |
-| 33  | more    |         |              |
-| 34  | morning |         |              |
-| 35  | most    |         |              |
-| 36  | mother  |         |              |
-| 37  | mouth   |         |              |
-| 38  | move    |         |              |
-| 39  | movie   |         |              |
-| 40  | Mr.     |         |              |
-| 41  | Mrs.    |         |              |
-| 42  | much    |         |              |
-| 43  | mum     |         |              |
-| 44  | mumble  |         |              |
-| 45  | music   |         |              |
-| 46  | must    |         |              |
-| 47  | mutter  |         |              |
-| 48  | my      |         |              |
-| 49  | myself  |         |              |
+| №   | слово                                                                          | перевод                                                                                                                                                                                                                                   | транскрипция          |
+| --- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| 1   | [mad](https://dictionary.cambridge.org/dictionary/english-russian/mad)         | сумасшедший, рассерженный, душевнобольной, бешеный (прилагательное)                                                                                                                                                                       | /mæd/                 |
+| 2   | [made](https://dictionary.cambridge.org/dictionary/english-russian/made)       | прош. вр. и прич. прош. вр. от гл. [make](https://dictionary.cambridge.org/dictionary/english-russian/make)                                                                                                                               | /meɪd/                |
+| 3   | [make](https://dictionary.cambridge.org/dictionary/english-russian/make)       | делать, создавать, быть в состоянии пойти куда-либо, зарабатывать, составлять в сумме, мочь стать кем-либо, иметь хорошие задатки, назначать на должность (глагол) / марка (фирмы) (существительное)                                      | /meɪk/                |
+| 4   | [man](https://dictionary.cambridge.org/dictionary/english-russian/man)         | мужчина, человек (существительное) / присутствовать, работать (о людях) (глагол)                                                                                                                                                          | /mæn/                 |
+| 5   | [manage](https://dictionary.cambridge.org/dictionary/english-russian/manage)   | справляться, ухитряться, руководить, управлять, уметь обращаться, организовывать, жить, обходиться (деньгами) (глагол)                                                                                                                    | /ˈmænɪdʒ/             |
+| 6   | [many](https://dictionary.cambridge.org/dictionary/english-russian/many)       | много (местоимение, квантификатор)                                                                                                                                                                                                        | /ˈmeni/               |
+| 7   | [mark](https://dictionary.cambridge.org/dictionary/english-russian/mark)       | пятно, след, оценка, отметка, черта (существительное) / ознаменовывать, отмечать, праздновать, обозначать, проверять, ставить оценку, оставлять пятно, след (глагол)                                                                      | /mɑːk/                |
+| 8   | [marry](https://dictionary.cambridge.org/dictionary/english-russian/marry)     | жениться, выходить замуж, венчать, сочетать браком (глагол)                                                                                                                                                                               | /ˈmæri/               |
+| 9   | [match](https://dictionary.cambridge.org/dictionary/english-russian/match)     | матч, соревнование, спичка, вещь, гармонирующая с чем-либо, пара, ровня (существительное) / подходить, соответствовать, подбирать соответствие, состязаться, сравниться (глагол)                                                          | /mætʃ/                |
+| 10  | [matter](https://dictionary.cambridge.org/dictionary/english-russian/matter)   | дело, вопрос, вещество, материя, определенный тип предметов, материал (существительное) / иметь значение (глагол)                                                                                                                         | /ˈmætər/              |
+| 11  | [may](https://dictionary.cambridge.org/dictionary/english-russian/may)         | может быть, можно (модальный глагол)                                                                                                                                                                                                      | /meɪ/                 |
+| 12  | [maybe](https://dictionary.cambridge.org/dictionary/english-russian/maybe)     | может быть, возможно (наречие)                                                                                                                                                                                                            | /ˈmeɪbi/              |
+| 13  | [me](https://dictionary.cambridge.org/dictionary/english-russian/me)           | я (дополнение), меня, мне (местоимение)                                                                                                                                                                                                   | /miː/                 |
+| 14  | [mean](https://dictionary.cambridge.org/dictionary/english-russian/mean)       | значить, иметь в виду, означать, не шутить, говорить серьезно, иметь значение (для кого-либо) (глагол) / низкий, подлый, скупой, злой, жестокий, классный, отличный, средний (прилагательное) / середина, среднее число (существительное) | /miːn/                |
+| 15  | [meant](https://dictionary.cambridge.org/dictionary/english-russian/meant)     | прош. вр. и прич. прош. вр. от гл. [mean](https://dictionary.cambridge.org/dictionary/english-russian/mean)                                                                                                                               | /ment/                |
+| 16  | [meet](https://dictionary.cambridge.org/dictionary/english-russian/meet)       | встречать(ся), знакомиться, собираться (вместе), встречать (на вокзале и т. д.), соответствовать, удовлетворять (требованиям и т. д.), выполнять, достигать, сходиться, соприкасаться (глагол) / соревнование (существительное)           | /miːt/                |
+| 17  | [memory](https://dictionary.cambridge.org/dictionary/english-russian/memory)   | память, воспоминание, память (компьютера) (существительное)                                                                                                                                                                               | /ˈmeməri/             |
+| 18  | [men](https://dictionary.cambridge.org/dictionary/english-russian/men)         | мн. ч. сущ. [man](https://dictionary.cambridge.org/dictionary/english-russian/man)                                                                                                                                                        | /men/                 |
+| 19  | [mention](https://dictionary.cambridge.org/dictionary/english-russian/mention) | упоминать (глагол) / упоминание, ссылка (существительное)                                                                                                                                                                                 | /ˈmenʃən/             |
+| 20  | [met](https://dictionary.cambridge.org/dictionary/english-russian/met)         | прош. вр. и прич. прош. вр. от гл. [meet](https://dictionary.cambridge.org/dictionary/english-russian/meet)                                                                                                                               | /met/                 |
+| 21  | [middle](https://dictionary.cambridge.org/dictionary/english-russian/middle)   | средний, среднего уровня (прилагательное)                                                                                                                                                                                                 | /ˈmɪdl/               |
+| 22  | [might](https://dictionary.cambridge.org/dictionary/english-russian/might)     | может быть, возможно (модальный глагол) / могущество (существительное)                                                                                                                                                                    | /maɪt/                |
+| 23  | [mind](https://dictionary.cambridge.org/dictionary/english-russian/mind)       | ум (существительное) / возражать, быть против чего-либо, присматривать (за кем-либо/чем-либо), остерегаться, быть осторожным (глагол)                                                                                                     | /maɪnd/               |
+| 24  | [mine](https://dictionary.cambridge.org/dictionary/english-russian/mine)       | мой, моя, мое, мои (местоимение) / рудник, шахта, мина (существительное) / добывать (уголь, руду и т. д.), минировать (глагол)                                                                                                            | /maɪn/                |
+| 25  | [minute](https://dictionary.cambridge.org/dictionary/english-russian/minute)   | минута, мгновение (существительное) / ничтожный, незначительный, подробный, тщательный (прилагательное)                                                                                                                                   | /ˈmɪnɪt/, /maɪˈnjuːt/ |
+| 26  | [mirror](https://dictionary.cambridge.org/dictionary/english-russian/mirror)   | зеркало (существительное) / отражать, правдиво изображать (глагол)                                                                                                                                                                        | /ˈmɪrər/              |
+| 27  | [miss](https://dictionary.cambridge.org/dictionary/english-russian/miss)       | скучать, ощущать отсутствие, пропускать, не посещать, не увидеть, не расслышать, пропустить, промахнуться, не поймать, опоздать, не попасть, не заметить, проглядеть (глагол) / промах (существительное)                                  | /mɪs/                 |
+| 28  | [mom](https://dictionary.cambridge.org/dictionary/english-russian/mom)         | мама (существительное)                                                                                                                                                                                                                    | /mɒm/                 |
+| 29  | [moment](https://dictionary.cambridge.org/dictionary/english-russian/moment)   | мгновение, миг, момент (существительное)                                                                                                                                                                                                  | /ˈməʊmənt/            |
+| 30  | [money](https://dictionary.cambridge.org/dictionary/english-russian/money)     | деньги (существительное)                                                                                                                                                                                                                  | /ˈmʌni/               |
+| 31  | [month](https://dictionary.cambridge.org/dictionary/english-russian/month)     | месяц (существительное)                                                                                                                                                                                                                   | /mʌnθ/                |
+| 32  | [mood](https://dictionary.cambridge.org/dictionary/english-russian/mood)       | настроение, наклонение (в грамматике) (существительное)                                                                                                                                                                                   | /muːd/                |
+| 33  | [more](https://dictionary.cambridge.org/dictionary/english-russian/more)       | больше, еще (квантификатор) / больше, более (наречие)                                                                                                                                                                                     | /mɔːr/                |
+| 34  | [morning](https://dictionary.cambridge.org/dictionary/english-russian/morning) | утро (существительное)                                                                                                                                                                                                                    | /ˈmɔːnɪŋ/             |
+| 35  | [most](https://dictionary.cambridge.org/dictionary/english-russian/most)       | больше всего (наречие) / большинство, большая часть, больше всего (квантификатор)                                                                                                                                                         | /məʊst/               |
+| 36  | [mother](https://dictionary.cambridge.org/dictionary/english-russian/mother)   | мать (существительное)                                                                                                                                                                                                                    | /ˈmʌðər/              |
+| 37  | [mouth](https://dictionary.cambridge.org/dictionary/english-russian/mouth)     | рот (существительное)                                                                                                                                                                                                                     | /maʊθ/                |
+| 38  | [move](https://dictionary.cambridge.org/dictionary/english-russian/move)       | переезжать, двигать(ся), передвигать(ся), действовать, принимать меры, переносить (срок), менять порядок, трогать, волновать (глагол) / поступок, шаг, переезд (существительное)                                                          | /muːv/                |
+| 39  | [movie](https://dictionary.cambridge.org/dictionary/english-russian/movie)     | фильм (существительное)                                                                                                                                                                                                                   | /ˈmuːvi/              |
+| 40  | [Mr.](https://dictionary.cambridge.org/dictionary/english-russian/mr?q=Mr.)    | господин, мистер (существительное)                                                                                                                                                                                                        | /ˈmɪstər/             |
+| 41  | [Mrs.](https://dictionary.cambridge.org/dictionary/english-russian/mrs?q=Mrs.) | госпожа, миссис (существительное)                                                                                                                                                                                                         | /ˈmɪsɪz/              |
+| 42  | [much](https://dictionary.cambridge.org/dictionary/english-russian/much)       | много, сколько, мало, немного (квантификатор) / часто, очень, намного, гораздо (наречие)                                                                                                                                                  | /mʌtʃ/                |
+| 43  | [mum](https://dictionary.cambridge.org/dictionary/english-russian/mum)         | британский вариант [mom](https://dictionary.cambridge.org/dictionary/english-russian/mom)                                                                                                                                                 | /mʌm/                 |
+| 44  | [mumble](https://dictionary.cambridge.org/dictionary/english-russian/mumble)   | бормотать (глагол)                                                                                                                                                                                                                        | /ˈmʌmbl/              |
+| 45  | [music](https://dictionary.cambridge.org/dictionary/english-russian/music)     | музыка, ноты (существительное)                                                                                                                                                                                                            | /ˈmjuːzɪk/            |
+| 46  | [must](https://dictionary.cambridge.org/dictionary/english-russian/must)       | должен, должна, должно, должны, должно быть, вероятно, обязательно должен, должна, должно, должны (модальный глагол)                                                                                                                      | /məst, məs/           |
+| 47  | [mutter](https://dictionary.cambridge.org/dictionary/english-russian/mutter)   | бормотать, брюзжать (глагол)                                                                                                                                                                                                              | /ˈmʌtər/              |
+| 48  | [my](https://dictionary.cambridge.org/dictionary/english-russian/my)           | мой, моя, мое, мои (определитель)                                                                                                                                                                                                         | /maɪ/                 |
+| 49  | [myself](https://dictionary.cambridge.org/dictionary/english-russian/myself)   | себя, себе, сам, сама (о 1-м лице ед. ч.) (местоимение)                                                                                                                                                                                   | /maɪˈself/            |
